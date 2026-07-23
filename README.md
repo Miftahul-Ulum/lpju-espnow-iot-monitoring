@@ -1,6 +1,3 @@
-# lpju-espnow-iot-monitoring
-Sistem Monitoring Lampu Penerangan Jalan Umum Menggunakan ESP-Now Protocol berbasis Internet of Things
-
 # 💡 Sistem Monitoring LPJU Menggunakan ESP-NOW Protocol Berbasis IoT
 
 Repository ini berisi kode sumber (*source code*) untuk penelitian skripsi berjudul:
